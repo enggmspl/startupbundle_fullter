@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/shared_preferences/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/78fcc35332b82e66ded9ce9dbd9c8c72/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/shared_preferences/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/78fcc35332b82e66ded9ce9dbd9c8c72/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/shared_preferences/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/78fcc35332b82e66ded9ce9dbd9c8c72/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/shared_preferences/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/78fcc35332b82e66ded9ce9dbd9c8c72/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]

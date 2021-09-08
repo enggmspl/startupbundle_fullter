@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/ee3dd1b747d9a5fcfe1a44cfe84d1efa/appcompat-1.0.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/ee3dd1b747d9a5fcfe1a44cfe84d1efa/appcompat-1.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/ee3dd1b747d9a5fcfe1a44cfe84d1efa/appcompat-1.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/ee3dd1b747d9a5fcfe1a44cfe84d1efa/appcompat-1.0.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/78fcc35332b82e66ded9ce9dbd9c8c72/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/catlina/Desktop/startup_bundle_flutter/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/catlina/.gradle/caches/transforms-2/files-2.1/ee3dd1b747d9a5fcfe1a44cfe84d1efa/appcompat-1.0.0/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
